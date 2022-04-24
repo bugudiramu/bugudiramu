@@ -3,12 +3,11 @@
 [![Website](https://img.shields.io/website?label=ramu.com&style=for-the-badge&url=https://bugudiramu.github.io/)](https://bugudiramu.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ramu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/_iamramu)
 
-## I'm a Web Mobile and UI Designer & Developer!
+## Front End Developer | Strong in React and Javascript.
 
-- ✈  I’m currently working on some Freelancing Projects 💪🏼.
-- 🔥 I’m currently learning React Native 🤣
+- ✈  I’m currently working as a FRONT END DEVELOPER at IN-D.ai 💪🏼.
 - 🔎 I’m looking for a Full Stack Development Job.
-- 🥅 2020 Goals: Will be working on more personal projects and contribute to open source.
+- 🥅 Working on Javascript, React and UI development.
 - ⚡ Fun fact: I love to travel.
 
 <!-- ### Spotify Playing 🎧
