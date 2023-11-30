@@ -3,11 +3,11 @@
 [![Website](https://img.shields.io/website?label=ramu.com&style=for-the-badge&url=https://bugudiramu.github.io/)](https://bugudiramu.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ramu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/_iamramu)
 
-## Front End Developer | Strong in React and Javascript.
+## Full Stack Developer | Strong in React and JavaScript & TypeScript.
 
-- ✈  I’m currently working as a FRONT END DEVELOPER at IN-D.ai 💪🏼.
-- 🔎 I’m looking for a Full Stack Development Job.
-- 🥅 Working on Javascript, React and UI development.
+- ✈  I’m currently working as a FULL STACK DEVELOPER at actyv.ai 💪🏼.
+- 🔎 I’m looking for a Full Stack Development Role.
+- 🥅 Working on Javascript, TypeScript, React and Nest.js development.
 - ⚡ Fun fact: I love to travel.
 
 <!-- ### Spotify Playing 🎧
